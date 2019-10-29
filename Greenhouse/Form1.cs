@@ -63,8 +63,8 @@ namespace WindowsFormsApplication2
 
         private void Show_Click_1(object sender, EventArgs e)
         {
-           // Form2 ShowGreenhouse = new WindowsFormsApplication2.Form2();
-            //ShowGreenhouse.Show();
+            Form2 ShowGreenhouse = new WindowsFormsApplication2.Form2();
+            ShowGreenhouse.Show();
         }
     }
 

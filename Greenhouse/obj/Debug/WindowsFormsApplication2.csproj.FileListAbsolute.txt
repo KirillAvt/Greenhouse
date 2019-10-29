@@ -7,3 +7,13 @@ F:\Учеба\WG\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\Gre
 F:\Учеба\WG\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\GreenHouse.pdb
 F:\Учеба\WG\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\GreenHouse.exe
 F:\Учеба\WG\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\GreenHouse.pdb
+C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\bin\Debug\GreenHouse.exe.config
+C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\obj\Debug\GreenHouse.exe
+C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\obj\Debug\GreenHouse.pdb
+C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\bin\Debug\GreenHouse.exe
+C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\bin\Debug\GreenHouse.pdb
+C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
