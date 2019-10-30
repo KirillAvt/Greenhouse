@@ -26,8 +26,15 @@ namespace WindowsFormsApplication2
 
     private void label1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show( "ТЕПЛИИИИИИИЧЕЧКА");
-            Application.Exit();
+            if (comboBox1.SelectedIndex > -1)
+            {
+                MessageBox.Show("ТЕПЛИИИИИИИЧЕЧКА");
+                Application.Exit();
+            }
+            else
+            {
+                MessageBox.Show("                        Пздц \nНу ты и овощ, выбери уже какой-нибудь план");
+            }
            
         }
 
