@@ -17,3 +17,13 @@ C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\obj\Debug\WindowsFormsApplication2
 C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\obj\Debug\WindowsFormsApplication2.Form2.resources
 C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
 C:\Users\Kirill\Desktop\Greenhouse\Greenhouse\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Deste\OneDrive\Desktop\Greenhouse-master\Greenhouse\obj\Debug\WindowsFormsApplication2.csprojAssemblyReference.cache
+C:\Users\Deste\OneDrive\Desktop\Greenhouse-master\Greenhouse\obj\Debug\GreenHouse.exe
+C:\Users\Deste\OneDrive\Desktop\Greenhouse-master\Greenhouse\obj\Debug\GreenHouse.pdb
+C:\Users\Deste\OneDrive\Desktop\Greenhouse-master\Greenhouse\bin\Debug\GreenHouse.exe.config
+C:\Users\Deste\OneDrive\Desktop\Greenhouse-master\Greenhouse\bin\Debug\GreenHouse.exe
+C:\Users\Deste\OneDrive\Desktop\Greenhouse-master\Greenhouse\bin\Debug\GreenHouse.pdb
+C:\Users\Deste\OneDrive\Desktop\Greenhouse-master\Greenhouse\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Deste\OneDrive\Desktop\Greenhouse-master\Greenhouse\obj\Debug\WindowsFormsApplication2.Form2.resources
+C:\Users\Deste\OneDrive\Desktop\Greenhouse-master\Greenhouse\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Deste\OneDrive\Desktop\Greenhouse-master\Greenhouse\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.cache

@@ -16,5 +16,25 @@ namespace WindowsFormsApplication2
         {
             InitializeComponent();
         }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void temToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void fToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

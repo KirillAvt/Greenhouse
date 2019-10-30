@@ -66,6 +66,51 @@ namespace WindowsFormsApplication2
             Form2 ShowGreenhouse = new WindowsFormsApplication2.Form2();
             ShowGreenhouse.Show();
         }
+
+        private void TemHour_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click_2(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Percent_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PerHour_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PerText1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void HourPerText_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Degrees2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Percent1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 
 
